@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291485335353",
+    "project_id": "mydorm-75d7e",
+    "storage_bucket": "mydorm-75d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291485335353:android:5b78433f585ec7939f32e8",
+        "android_client_info": {
+          "package_name": "com.bnuray.bndiplomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaDLxlA4Ei4_zJ444g3qQshpMJj50zg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
